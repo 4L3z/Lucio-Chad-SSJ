@@ -1,0 +1,90 @@
+[
+    {
+        "path": "/lucio",
+        "title": "Lucio Chad",
+        "description": "En su forma base, conoce lo básico, pero su curiosidad lo empuja a explorar más allá del código que tiene frente a él...",
+        "level": 0,
+        "nextPath": "/lucio/ssj1",
+        "image": "/images/lucio-chad-base.png"
+    },
+    {
+        "path": "/lucio/ssj1",
+        "title": "Lucio Chad SSJ 1",
+        "description": "Su primer gran transformación. Ahora, no solo entiende el código, sino que comienza a escribirlo con propósito y eficiencia.",
+        "level": 1,
+        "nextPath": "/lucio/ssj2",
+        "image": "/images/lucio-chad-ssj1.png"
+    },
+    {
+        "path": "/lucio/ssj2",
+        "title": "Lucio Chad SSJ 2",
+        "description": "Su lógica se afila, sus habilidades de depuración son casi infalibles. Cada error es solo una oportunidad para aprender más.",
+        "level": 2,
+        "nextPath": "/lucio/ssj3",
+        "image": "/images/lucio-chad-ssj2.png"
+    },
+    {
+        "path": "/lucio/ssj3",
+        "title": "Lucio Chad SSJ 3",
+        "description": "Con una experiencia sólida en varios lenguajes, puede cambiar entre ellos sin esfuerzo, adaptando su estilo de codificación según sea necesario.",
+        "level": 3,
+        "nextPath": "/lucio/ssj4",
+        "image": "/images/lucio-chad-ssj3.png"
+    },
+    {
+        "path": "/lucio/ssj4",
+        "title": "Lucio Chad SSJ 4",
+        "description": "La arquitectura del software ya no es un desafío; ahora construye sistemas complejos que otros programadores solo podrían soñar con diseñar.",
+        "level": 4,
+        "nextPath": "/lucio/ssj5",
+        "image": "/images/lucio-chad-ssj4.png"
+    },
+    {
+        "path": "/lucio/ssj5",
+        "title": "Lucio Chad SSJ 5",
+        "description": "La creatividad se fusiona con la técnica. Ahora, Lucio no solo escribe código funcional, sino que lo hace de manera innovadora, creando soluciones que nadie más puede imaginar.",
+        "level": 5,
+        "nextPath": "/lucio/ssj6",
+        "image": "/images/lucio-chad-ssj5.png"
+    },
+    {
+        "path": "/lucio/ssj6",
+        "title": "Lucio Chad SSJ 6",
+        "description": "Los límites de la programación parecen desaparecer. Lucio ahora entiende el impacto del código no solo en el software, sino en la sociedad.",
+        "level": 6,
+        "nextPath": "/lucio/ssj7",
+        "image": "/images/lucio-chad-ssj6.png"
+    },
+    {
+        "path": "/lucio/ssj7",
+        "title": "Lucio Chad SSJ 7",
+        "description": "Cada línea de código es una obra maestra, cada proyecto una oportunidad para cambiar el mundo.",
+        "level": 7,
+        "nextPath": "/lucio/ssj8",
+        "image": "/images/lucio-chad-ssj7.png"
+    },
+    {
+        "path": "/lucio/ssj8",
+        "title": "Lucio Chad SSJ 8",
+        "description": "Su conocimiento es enciclopédico. No hay lenguaje que desconozca ni problema que no pueda resolver.",
+        "level": 8,
+        "nextPath": "/lucio/ssj9",
+        "image": "/images/lucio-chad-ssj8.png"
+    },
+    {
+        "path": "/lucio/ssj9",
+        "title": "Lucio Chad SSJ 9",
+        "description": "El código ya no es solo una herramienta, sino una extensión de su ser. Sus habilidades son legendarias.",
+        "level": 9,
+        "nextPath": "/lucio/ssj10",
+        "image": "/images/lucio-chad-ssj9.png"
+    },
+    {
+        "path": "/lucio/ssj10",
+        "title": "Lucio Chad SSJ 10",
+        "description": "la culminación de la perfección técnica, la creatividad ilimitada y la sabiduría infinita. No solo programa, sino que redefine la realidad digital.",
+        "level": 10,
+        "nextPath": null,
+        "image": "/images/lucio-chad-ssj10.png"
+    }
+]
